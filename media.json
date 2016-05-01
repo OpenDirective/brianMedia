@@ -2,7 +2,7 @@
   "meta": "DART mockup",
   "photoDir": "./DARTMockup",
   "albums": [
-    { "name": "start",
+    { "name": "Home",
       "photos": [ "Familjen", "Resor", "Huset", "Intressen" ]
     },
     { "name": "Familjen",
